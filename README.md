@@ -107,9 +107,7 @@ it took me a long time to hone my skills to my level, I wish future people
 who wish to try to emulate me, to have an easier time. I may be a badass writer and entertaimer, but given I know I should ["Publish or Perish"](https://www.shlomifish.org/humour/bits/facts/NSA/) and love to share my wisdom and knowledge anyway, and wish people to learn from my mistakes and my successes.
 
 
-Most of my screenplays, stories, bits, factoids, [the few videos](https://www.youtube.com/user/ShlomiFish) (they are very lame compared to the videos of Taylor Swift but they are a start), [tweets](https://twitter.com/shlomif) etc. were inspired by thoughts I had during 
-
-hypomanias, and I quite enjoy it.
+Most of my screenplays, stories, bits, factoids, [the few videos](https://www.youtube.com/user/ShlomiFish) (they are very lame compared to the videos of Taylor Swift but they are a start), [tweets](https://twitter.com/shlomif) etc. were inspired by thoughts I had during hypomanias, and I quite enjoy it.
 
 Sometimes I get into periods of mild [depressions](https://en.wikipedia.org/wiki/Major_depressive_disorder) during which I like to code a lot and to chat less
 passionately and philosophically on IRC. Or I get into "deep work mode" when
@@ -199,4 +197,4 @@ Some advice to Taylor Swift
 ===========================
 
 1. You are speaking in riddles too much (and in fact mentioned it in
-[one of your songs](https://en.wikipedia.org/wiki/Ours_(song)) 
+[one of your songs](https://en.wikipedia.org/wiki/Ours_%28song%29)
