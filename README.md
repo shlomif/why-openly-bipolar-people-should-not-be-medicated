@@ -119,7 +119,7 @@ She may do "strange" things such as:
 * Paying for anything she orders from a meal down to a soft drink, a glass of juice, or even some water, with a 100 USD bill telling the vendor/waitor to keep the change or donate it to charity (or give to her only to witness her putting
 it on one table).
 * Walk alone in the neighbourhood thinking
-* Staying up at night chatting in social media chatrooms (e.g. [Freenode](https://freenode.net), [Discord](https://discordapp.com), [Telegram](https://telegram.org), and [many others](https://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/) ), while ordering food or drinks from time to time
+* Staying up at night chatting in social media chatrooms (e.g. [Freenode](https://freenode.net), [Discord](https://discordapp.com), [Telegram](https://telegram.org), and [many others](https://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/)), while ordering food or drinks from time to time
 * Engage in conversations with complete strangers, to whom she will even gladly [give money](https://twitter.com/shlomif/status/1175578541292957696).
 
 Policemen are unlikely to detain her,
