@@ -16,7 +16,7 @@ as fully sane and acceptable, and do not try to medicate the homosexuality out
 of them. Here in Israel, openly gay, bisexual and lesbian individuals are
 subject to the same rights and responsibilities as straight individuals, and
 while a few issues are still a matter of unresolved debate, a gay person
-can lead a fully normal amd healthy life, without being sedated and medicated.
+can lead a fully normal and healthy life, without being sedated and medicated.
 
 But it's not all roses.
 
