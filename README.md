@@ -73,13 +73,13 @@ Taylor Swift as a hypomania-"sufferer'
 If you're into contemporary music, you likely have heard of [Taylor Swift](https://en.wikipedia.org/wiki/Taylor_Swift), a very successful singer-songwrier
 which is known for her interesting narrated lyrics, positively extravagant and
 mind-blowing
-videos, constant philantropism (which does not prevent her from becoming richer_,
+videos, constant philantropism (which does not prevent her from becoming richer,
 and a rich youtube culture of youtubers who cover her songs, parody them,
 remix them, and comment on them. I realised that she became a [Hacker Monarch](https://www.shlomifish.org/me/rindolf/) - one of several by the time I and
 other [freenode](https://freenode.net)ers joked about her suing Apple Inc.
 for using the "Swift" trademark for [Apple Swift](https://en.wikipedia.org/wiki/Swift_%40programming_language%41).
 
-Now here is a revelation, based on the [lyrics](https://duckduckgo.com/?q=lyrics+taylor+swift+shake+it+off) to Swift's [hit song Shake It Off](https://www.youtube.com/watch?v=nfWlot6h_JM]): "I stay up too late" , "got nothing on my brain"
+Now here is a revelation, based on the [lyrics](https://duckduckgo.com/?q=lyrics+taylor+swift+shake+it+off) to Swift's [hit song "Shake It Off"](https://www.youtube.com/watch?v=nfWlot6h_JM]): "I stay up too late" , "got nothing on my brain"
 it seems that she is often hypomanic but instead of battling it, she enjoys
 it as she is more creative, more energetic, more insightful and more socialable
 and interesting.
@@ -106,8 +106,7 @@ following the text of the essays, stories and screenplays, and links. While
 it took me a long time to hone my skills to my level, I wish future people
 who wish to try to emulate me, to have an easier time. I may be a badass writer and entertaimer, but given I know I should ["Publish or Perish"](https://www.shlomifish.org/humour/bits/facts/NSA/) and love to share my wisdom and knowledge anyway, and wish people to learn from my mistakes and my successes.
 
-
-Most of my screenplays, stories, bits, factoids, [the few videos](https://www.youtube.com/user/ShlomiFish) (they are very lame compared to the videos of Taylor Swift but they are a start), [tweets](https://twitter.com/shlomif) etc. were inspired by thoughts I had during hypomanias, and I quite enjoy it.
+Most of my screenplays, stories, bits, factoids, [the few videos I have on YouTube](https://www.youtube.com/user/ShlomiFish) (they are very lame compared to the videos of Taylor Swift, but they are a start), [tweets](https://twitter.com/shlomif) etc. were inspired by thoughts I had during hypomanias, and I quite enjoy it.
 
 Sometimes I get into periods of mild [depressions](https://en.wikipedia.org/wiki/Major_depressive_disorder) during which I like to code a lot and to chat less
 passionately and philosophically on IRC. Or I get into "deep work mode" when
@@ -136,9 +135,9 @@ The Sad Story of My Treatment:
 
 However, I am not so lucky.
 
-In the break after my second Technion semester, during which I started writing [The One With The Fountainhead](https://www.shlomifish.org/humour/TOWTF/) - which is a parodical crossover of
+In the break after my second Technion semester, I started writing [The One With The Fountainhead](https://www.shlomifish.org/humour/TOWTF/) - which is a parodical crossover of
 [Ayn Rand's The Fountainhead](https://en.wikipedia.org/wiki/The_Fountainhead)
-and [the Friends T.V. show](https://en.wikipedia.org/wiki/Friends), which
+and [the Friends T.V. show](https://en.wikipedia.org/wiki/Friends), and which
 is one of the funniest, most politically incorrect and yet some people's
 favourite of my screenplays.
 
@@ -150,7 +149,7 @@ world where [Star Trek DS9](https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep
 [Sabrina](https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_%281996_TV_series%29), [CEIA](https://en.wikipedia.org/wiki/Clarissa_Explains_It_All)
 [Neo-Tech](https://rationalwiki.org/wiki/Neo-Tech), various
 characters from [Judaism](https://en.wikipedia.org/wiki/Judaism)
-, some of their stars, and some of my own friends and relatives were real and
+, some of their actors, and some of my own friends and relatives were real and
 integrated together.
 
 I did a lot of crazy stuff, but eventually a psychiatrist asked me if I thought
@@ -162,20 +161,18 @@ incredibly productive for me resulting in stuff I placed on
 [my homesite](https://www.shlomifish.org/) - and on other social media sites,
 and which many similar minded hackers (both male and female) enjoyed,
 complimented me for it, thought they were funny, or alternatively
-thought they were [blasphemous which indicates they were true](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/).
+thought they were [blasphemous (which indicates they were true)](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/).
 
 But the people who wanted me to be "mentally healthy" told me these things
 were irrational, wrong, "mania-driven" and that they were nonsense and that I
 should not give them weight.
 
-Bullshit!!! They were insightful, fresh, and endured their time.
+Wrong!!! They were insightful, fresh, and endured their time.
 
 Now currently I have suffered from many harmful antipsychotics -
 [it may still be fixed](https://twitter.com/shc_mo/status/1180165973556506626)
 but what if instead of these harmful legal drugs, I would have been treated
-with good word therapy, possibly [CBT]
-
-(https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) or more
+with good word therapy, possibly [CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) or more
 preferably [Saladin-style](http://shlomifishswiki.branchable.com/Saladin_Style/)
 positive therapy.
 
@@ -192,9 +189,3 @@ your hands. Whatever you do, I'll accept that." These words go back at least
 to [Moses](https://en.wikipedia.org/wiki/Moses) and were extended and conveyed
 by greater and greater "memes" including the [Taylor Swift "Shake it Off" song](https://www.youtube.com/watch?v=T7HiMv5jygk)
 and the somewhat more established ["Highway to Hell" by AC/DC](https://www.youtube.com/watch?v=d2RZXeQc5HU) (these are both links to my favourite covers of them).
-
-Some advice to Taylor Swift
-===========================
-
-1. You are speaking in riddles too much (and in fact mentioned it in
-[one of your songs](https://en.wikipedia.org/wiki/Ours_%28song%29)
