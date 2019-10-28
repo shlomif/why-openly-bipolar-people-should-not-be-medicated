@@ -189,3 +189,12 @@ your hands. Whatever you do, I'll accept that." These words go back at least
 to [Moses](https://en.wikipedia.org/wiki/Moses) and were extended and conveyed
 by greater and greater "memes" including the [Taylor Swift "Shake it Off" song](https://www.youtube.com/watch?v=T7HiMv5jygk)
 and the somewhat more established ["Highway to Hell" by AC/DC](https://www.youtube.com/watch?v=d2RZXeQc5HU) (these are both links to my favourite covers of them).
+
+A Million Psychiatrists can be wrong
+====================================
+
+Some people think that a million psychiatrists (and the mass media) cannot be
+wrong, but they can. In other news everyone [know the Earth is flat](https://en.wikipedia.org/wiki/Flat_Earth)
+and that the [sun and all the planets revolve around the Earth](https://en.wikipedia.org/wiki/Galileo_Galilei)
+and that [unmarried couples living together and having premarital sex](https://en.wikipedia.org/wiki/Bertrand_Russell)
+is unethical and immoral.
