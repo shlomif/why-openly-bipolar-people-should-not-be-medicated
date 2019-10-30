@@ -52,7 +52,7 @@ https://en.wikipedia.org/wiki/Yom_Kippur and https://en.wikipedia.org/wiki/Sukko
 
 Someone asked me if I feel I am comparable to Turing. Well, according to
 https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html
-I am even comparabale to such historical  great people as
+I am even comparable to such historical  great people as
 https://en.wikipedia.org/wiki/Larry_Wall (who is also quite obscure),
 https://en.wikipedia.org/wiki/Sesame_Street ,
 https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer ,
@@ -152,12 +152,10 @@ world where [Star Trek DS9](https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep
 [Sabrina](https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_%281996_TV_series%29), [CEIA](https://en.wikipedia.org/wiki/Clarissa_Explains_It_All)
 [Neo-Tech](https://rationalwiki.org/wiki/Neo-Tech), various
 characters from [Judaism](https://en.wikipedia.org/wiki/Judaism)
-, some of their actors, and some of my own friends and relatives were real and
+, some of their actors, and some of my own friends and relatives, were real and
 integrated together.
 
-I did a lot of crazy stuff, but eventually a psychiatrist asked me if I thought
-if it sounded logical that I could hear what other people could tell me when
-I had it and I snapped out of the mania.
+I had done a lot of crazy stuff during my mania, but eventually a psychiatrist asked me if I thought if it sounded logical that I could read other people's minds, and I told him it didn't. As a result, I snapped out of the mania.
 
 I have been treated with harmful drugs that had many side effects, and did not prevent future hypomanias or other mood swings. Furthermore, my hypomanias were
 incredibly productive for me resulting in stuff I placed on
