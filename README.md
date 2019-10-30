@@ -1,3 +1,5 @@
+# Why Openly Bipolar People Should Not Be Medicated
+
 Parallel with Alan Turing
 =========================
 
