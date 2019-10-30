@@ -115,15 +115,16 @@ I write or [refactor](https://en.wikipedia.org/wiki/Code_refactoring) / transiti
 Taylor Swift should not be worried from being medicated for being Bipolar.
 She may do "strange" things such as:
 
-* Paying for anything she orders from a meal down to a soft drink, a glass of juice, or even some water, with a 100 USD bill telling the vendor/waitor to keep the change or donate it to charity (or give to her only to witness her putting
+* Paying for anything she orders from a meal down to a soft drink, a glass of juice, or even some water, with a 100 USD bill telling the vendor/waiter to keep the change or donate it to charity (or give to her only to witness her putting
 it on one table).
 * Walk alone in the neighbourhood thinking
 * Staying up at night chatting in social media chatrooms (e.g. [Freenode](https://freenode.net), [Discord](https://discordapp.com), [Telegram](https://telegram.org), and [many others](https://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/)), while ordering food or drinks from time to time
 * Engage in conversations with complete strangers, to whom she will even gladly [give money](https://twitter.com/shlomif/status/1175578541292957696).
+* Eat various foods based upon a whim. I once ordered a warm pasta meal in the morning, and the restaurant complied.
 
 Policemen are unlikely to detain her,
 and she can use social engineering and [Saladin style](http://shlomifishswiki.branchable.com/Saladin_Style/) benevolent psychological warfare so they just give
-her a ride back home, or leave her alone with them thinking that her
+her a ride back home, or leave her alone while thinking that her
 behaviour just "comes with the territory".
 
 Perhaps I have mischaracterised Ms. Swift here, but the point is that these
@@ -156,7 +157,7 @@ I did a lot of crazy stuff, but eventually a psychiatrist asked me if I thought
 if it sounded logical that I could hear what other people could tell me when
 I had it and I snapped out of the mania.
 
-I was treated with harmful drugs that had many side effects, and did not prevent future hypomanias or other mood swings. Furthermore, my hypomanias were
+I have been treated with harmful drugs that had many side effects, and did not prevent future hypomanias or other mood swings. Furthermore, my hypomanias were
 incredibly productive for me resulting in stuff I placed on
 [my homesite](https://www.shlomifish.org/) - and on other social media sites,
 and which many similar minded hackers (both male and female) enjoyed,
@@ -169,7 +170,7 @@ should not give them weight.
 
 Wrong!!! They were insightful, fresh, and endured their time.
 
-Now currently I have suffered from many harmful antipsychotics -
+Now, while I have suffered from many harmful antipsychotics -
 [it may still be fixed](https://twitter.com/shc_mo/status/1180165973556506626)
 but what if instead of these harmful legal drugs, I would have been treated
 with good word therapy, possibly [CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) or more
@@ -186,7 +187,9 @@ to construct by hard working, enthusiastic individuals.
 
 So I say: "do what you want, not what you feel you have to. The choice is in
 your hands. Whatever you do, I'll accept that." These words go back at least
-to [Moses](https://en.wikipedia.org/wiki/Moses) and were extended and conveyed
+to [Moses](https://en.wikipedia.org/wiki/Moses), were
+[exemplified by Saladin](http://shlomifishswiki.branchable.com/Saladin_Style/)
+and were extended and conveyed
 by greater and greater "memes" including the [Taylor Swift "Shake it Off" song](https://www.youtube.com/watch?v=T7HiMv5jygk)
 and the somewhat more established ["Highway to Hell" by AC/DC](https://www.youtube.com/watch?v=d2RZXeQc5HU) (these are both links to my favourite covers of them).
 
@@ -196,5 +199,12 @@ A Million Psychiatrists can be wrong
 Some people think that a million psychiatrists (and the mass media) cannot be
 wrong, but they can. In other news everyone [know the Earth is flat](https://en.wikipedia.org/wiki/Flat_Earth)
 and that the [sun and all the planets revolve around the Earth](https://en.wikipedia.org/wiki/Galileo_Galilei)
+and that [all species of animals were created about 6,000 years ago](https://en.wikipedia.org/wiki/Charles_Darwin)
 and that [unmarried couples living together and having premarital sex](https://en.wikipedia.org/wiki/Bertrand_Russell)
-is unethical and immoral.
+is unethical and immoral. And naturally homosexual individuals are a threat
+to society and must be medicated and sedated.
+
+
+
+
+
