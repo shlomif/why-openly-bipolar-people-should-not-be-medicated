@@ -81,7 +81,7 @@ remix them, and comment on them. I realised that she became a [Hacker Monarch](h
 other [freenode](https://freenode.net)ers joked about her suing Apple Inc.
 for using the "Swift" trademark for [Apple Swift](https://en.wikipedia.org/wiki/Swift_%40programming_language%41).
 
-Now here is a revelation, based on the [lyrics](https://duckduckgo.com/?q=lyrics+taylor+swift+shake+it+off) to Swift's [hit song "Shake It Off"](https://www.youtube.com/watch?v=nfWlot6h_JM]): "I stay up too late" , "got nothing on my brain"
+Now here is a revelation, based on the [lyrics](https://duckduckgo.com/?q=lyrics+taylor+swift+shake+it+off) to Swift's [hit song "Shake It Off"](https://www.youtube.com/watch?v=nfWlot6h_JM): "I stay up too late" , "got nothing on my brain"
 it seems that she is often hypomanic but instead of battling it, she enjoys
 it as she is more creative, more energetic, more insightful and more socialable
 and interesting.
@@ -203,8 +203,3 @@ and that [all species of animals were created about 6,000 years ago](https://en.
 and that [unmarried couples living together and having premarital sex](https://en.wikipedia.org/wiki/Bertrand_Russell)
 is unethical and immoral. And naturally homosexual individuals are a threat
 to society and must be medicated and sedated.
-
-
-
-
-
