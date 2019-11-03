@@ -106,7 +106,7 @@ In this day and age people can learn enough about all that by starting
 from [my homesite - www.shlomifish.org](https://www.shlomifish.org/) and
 following the text of the essays, stories and screenplays, and links. While
 it took me a long time to hone my skills to my level, I wish future people
-who wish to try to emulate me, to have an easier time. I may be a badass writer and entertaimer, but given I know I should ["Publish or Perish"](https://www.shlomifish.org/humour/bits/facts/NSA/) and love to share my wisdom and knowledge anyway, and wish people to learn from my mistakes and my successes.
+who wish to try to emulate me, to have an easier time. I may be a badass writer and entertainer, but given I know I should ["Publish or Perish"](https://www.shlomifish.org/humour/bits/facts/NSA/) and love to share my wisdom and knowledge anyway, and wish people to learn from my mistakes and my successes.
 
 Most of my screenplays, stories, bits, factoids, [the few videos I have on YouTube](https://www.youtube.com/user/ShlomiFish) (they are very lame compared to the videos of Taylor Swift, but they are a start), [tweets](https://twitter.com/shlomif) etc. were inspired by thoughts I had during hypomanias, and I quite enjoy it.
 
@@ -120,7 +120,7 @@ She may do "strange" things such as:
 * Paying for anything she orders from a meal down to a soft drink, a glass of juice, or even some water, with a 100 USD bill telling the vendor/waiter to keep the change or donate it to charity (or give to her only to witness her putting
 it on one table).
 * Walk alone in the neighbourhood thinking
-* Staying up at night chatting in social media chatrooms (e.g. [Freenode](https://freenode.net), [Discord](https://discordapp.com), [Telegram](https://telegram.org), and [many others](https://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/)), while ordering food or drinks from time to time
+* Staying up at night chatting in social media chat rooms (e.g. [Freenode](https://freenode.net), [Discord](https://discordapp.com), [Telegram](https://telegram.org), and [many others](https://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/)), while ordering food or drinks from time to time
 * Engage in conversations with complete strangers, to whom she will even gladly [give money](https://twitter.com/shlomif/status/1175578541292957696).
 * Eat various foods based upon a whim. I once ordered a warm pasta meal in the morning, and the restaurant complied.
 
