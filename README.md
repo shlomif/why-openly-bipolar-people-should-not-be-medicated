@@ -201,5 +201,5 @@ wrong, but they can. In other news everyone [know the Earth is flat](https://en.
 and that the [sun and all the planets revolve around the Earth](https://en.wikipedia.org/wiki/Galileo_Galilei)
 and that [all species of animals were created about 6,000 years ago](https://en.wikipedia.org/wiki/Charles_Darwin)
 and that [unmarried couples living together and having premarital sex](https://en.wikipedia.org/wiki/Bertrand_Russell)
-is unethical and immoral. And naturally homosexual individuals are a threat
+is unethical and immoral. And, naturally, homosexual individuals are a threat
 to society and must be medicated and sedated.
