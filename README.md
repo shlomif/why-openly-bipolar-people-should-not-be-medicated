@@ -1,7 +1,6 @@
 # Why Openly Bipolar People Should Not Be Medicated
 
-Parallel with Alan Turing
-=========================
+## Parallel with Alan Turing
 
 [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) is known as one
 of the fathers of theoretical computer science, and he also played an
@@ -22,10 +21,9 @@ can lead a fully normal and healthy life, without being sedated and medicated.
 
 But it's not all roses.
 
-Hypomania and MDD as the new Homosexuality:
-===========================================
+## Hypomania and MDD as the new Homosexuality:
 
-I have had [Major depressive disorder](https://en.wikipedia.org/wiki/Major_depressive_disorder) and
+I have had [Major depressive disorders](https://en.wikipedia.org/wiki/Major_depressive_disorder) and
 [Hypomanias](https://en.wikipedia.org/wiki/Hypomania) and even one major
 [Mania](https://en.wikipedia.org/wiki/Mania) and several shorter manias.
 This is documented on my [homesite](https://www.shlomifish.org/) and
@@ -70,8 +68,7 @@ happy hackers workers who are happy to provide their customers with royalty
 service, even if they are not paid a lot to do it, and many hacker or great
 hacker inmates.
 
-Taylor Swift as a hypomania-"sufferer"
-======================================
+## Taylor Swift as a hypomania-"sufferer"
 
 If you're into contemporary music, you likely have heard of [Taylor
 Swift](https://en.wikipedia.org/wiki/Taylor_Swift), a very successful
@@ -89,8 +86,7 @@ it seems that she is often hypomanic but instead of battling it, she enjoys
 it as she is more creative, more energetic, more insightful and more socialable
 and interesting.
 
-Hypomania is OK:
-================
+## Hypomania is OK:
 
 Hypomania has been believed to be treatable with medication, just like
 homosexuality in Turing's time, but I pretty much know the medication only
@@ -149,8 +145,7 @@ Perhaps I have mischaracterised Ms. Swift here, but the point is that these
 behaviours, although eccentric, unconventional, and non-conformist are perfectly
 logical, and I will do the same if I were a wealthy bipolar person.
 
-The Sad Story of My Treatment:
-==============================
+## The Sad Story of My Treatment:
 
 However, I am not so lucky.
 
@@ -223,8 +218,7 @@ somewhat more established ["Highway to Hell" by
 AC/DC](https://www.youtube.com/watch?v=d2RZXeQc5HU) (these are both links to my
 favourite covers of them).
 
-A Million Psychiatrists can be wrong
-====================================
+## A Million Psychiatrists can be wrong
 
 Some people think that a million psychiatrists (and the mass media) cannot be
 wrong, but they can. In other news, everyone [know the Earth is flat](https://en.wikipedia.org/wiki/Flat_Earth),
