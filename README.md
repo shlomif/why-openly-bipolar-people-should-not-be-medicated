@@ -76,8 +76,8 @@ singer-songwriter who is known for her interesting narrated lyrics, positively
 extravagant and mind-blowing videos, constant philantropism (which does not
 prevent her from becoming richer), and a rich YouTube culture of youtubers who
 cover her songs, parody them, remix them, and comment on them. I realised that
-she became a [Hacker Monarch](https://www.shlomifish.org/me/rindolf/) - one of
-several by the time I and other [freenode](https://freenode.net)ers joked about
+she became a [Hacker Monarch](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs) - one of
+several by the time I and other [freenode](https://freenode.net)ers [joked](https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gnu--think-big) about
 her suing Apple Inc. for using the "Swift" trademark for [Apple
 Swift](https://en.wikipedia.org/wiki/Swift_%40programming_language%41).
 
@@ -96,7 +96,7 @@ graduate from a B.Sc. in [EE in the
 Technion](https://github.com/shlomif/my-real-person-fan-fiction#the-technion-vs-project-euler),
 but not only did they not help, but I now know that these were the 6 and a half
 most soul destroying, unproductive, useless, and uninspiring years of my life.
-And that was only because the only reason I continued to learn there was
+And that was because the only reason I continued to learn there was
 because I wanted to get the diploma so I'll get more lucrative, higher paying,
 jobs. If I studied in the Technion or elsewhere, because it was fun, and to
 expand my horizons, or become a more effective writer / software developer /
@@ -158,7 +158,7 @@ funniest, most politically incorrect, and yet some people's favourite of my
 screenplays.
 
 Moreover, I corresponded with my friend [Omer Zak](https://zak.co.il/) and
-came up with the opening meme to the [Summerschool at the NSA](https://www.shlomifish.org/philosophy/SummerNSA/) effort.
+we came up with the opening meme to the [Summerschool at the NSA](https://www.shlomifish.org/philosophy/SummerNSA/) effort.
 
 All of this made me maniacal and out of control and I came up with an imaginary
 reality where [Star Trek DS9](https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep_Space_Nine), [Buffy](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer),
@@ -172,9 +172,9 @@ I had done a lot of crazy stuff during my mania, but eventually a psychiatrist
 asked me if I thought if it sounded logical that I could read other people's
 minds, and I told him it didn't. As a result, I snapped out of the mania.
 
-Afterwards, I have been treated with harmful drugs that had many side effects, and did not
-prevent future hypomanias or other mood swings. Furthermore, my hypomanias were
-incredibly productive for me resulting in stuff I placed on [my
+Afterwards, I have been treated with harmful drugs that had many side effects,
+and did not prevent future hypomanias or other mood swings. Furthermore, my
+hypomanias were incredibly productive for me resulting in stuff I placed on [my
 homesite](https://www.shlomifish.org/) - and on other social media sites, and
 which many similar minded hackers (both male and female) enjoyed, complimented
 me for it, thought they were funny, or alternatively thought they were
@@ -182,7 +182,7 @@ me for it, thought they were funny, or alternatively thought they were
 true)](http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/).
 
 But the people who wanted me to be "mentally healthy" told me these things
-were irrational, wrong, "mania-driven" and that they were nonsense and that I
+were irrational, wrong, "schema-driven" and that they were nonsense and that I
 should not give them weight.
 
 They were wrong! They were insightful, fresh, and endured their time.
@@ -193,14 +193,14 @@ instead of these harmful legal drugs, I would have been treated with good
 therapy, possibly
 [CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) or more
 preferably
-[Saladin-style](http://shlomifishswiki.branchable.com/Saladin_Style/) positive
+[Saladin-style](http://shlomifishswiki.branchable.com/Saladin_Style/) benevolent
 therapy.
 
 How many potential Taylor Swifts were forced to be a "Shlomi Fish" like me, who
 despite all was very productive and insightful, or were just hospitalised and
 sedated and fought against by mediocre minds, who think conformism is mental
 health, while [it is the
-opposite](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/).
+opposite](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/).
 Furthermore, conformism leads to [Superior
 orders](https://en.wikipedia.org/wiki/Superior_orders), including the "I just
 work here" [small minded
@@ -208,7 +208,7 @@ attitude](https://www.joelonsoftware.com/2004/12/06/news-45/) which leads to
 sadism and vandalism and loss of lives and property that took a lot of effort
 to construct by hard working, enthusiastic individuals.
 
-So I say: "do what you want, not what you feel you have to. The choice is in
+So I say: "do what you want, not what you feel you must. The choice is in
 your hands. Whatever you do, I'll accept that." These words go back at least to
 [Moses](https://en.wikipedia.org/wiki/Moses), were [exemplified by
 Saladin](http://shlomifishswiki.branchable.com/Saladin_Style/) and were
@@ -221,7 +221,7 @@ favourite covers of them).
 ## A Million Psychiatrists can be wrong
 
 Some people think that a million psychiatrists (and the mass media) cannot be
-wrong, but they can. In other news, everyone [know the Earth is flat](https://en.wikipedia.org/wiki/Flat_Earth),
+wrong, but they can. In other news, everyone [knows the Earth is flat](https://en.wikipedia.org/wiki/Flat_Earth),
 and that the [sun and all the planets revolve around the Earth](https://en.wikipedia.org/wiki/Galileo_Galilei),
 and that [all species of animals were created about 6,000 years ago](https://en.wikipedia.org/wiki/Charles_Darwin),
 and that [unmarried couples living together and having premarital sex](https://en.wikipedia.org/wiki/Bertrand_Russell)
