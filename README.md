@@ -57,11 +57,10 @@ I am even comparable to such historical great people as
 [The Beatles]https://en.wikipedia.org/wiki/The_Beatles , and
 other [hacker monarchs](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs).
 
-Right now I am playing the old "fox-in-the-hens'-coop" motif like
+Right now I am playing the old ["fox-in-the-hens'-coop"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop) motif like
 [Joseph](https://en.wikipedia.org/wiki/Joseph_%28Genesis%29) in prison,
-or Summer Glau in https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ , in which case what happens when you put a Great
-[Hacker/Action Hero](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#david_and_goliath) (see:
-http://www.paulgraham.com/gh.html ) in a secluded place with many
+or Summer Glau in [Summerschool at the NSA](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/) , in which case what happens when you put a
+[Great Hacker/Action Hero](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#great-hackers) in a secluded place with many
 minor hackers, and several lazy "I just work here" people who do their job
 in the worst possible manner, is not a crashed great hacker, but instead many
 happy hackers workers who are happy to provide their customers with royalty
