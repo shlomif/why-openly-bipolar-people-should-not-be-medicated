@@ -2,6 +2,8 @@
 
 ## Parallel with Alan Turing
 
+<img align="right" alt="Photo of Alan Turing" src="./alan_turing.webp" />
+
 [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) is known as one
 of the fathers of theoretical computer science, and he also played an
 instrumental role in protecting Britain against the attacks of the German
