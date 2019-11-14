@@ -53,10 +53,10 @@ two of my favourite holidays and I am about to miss
 Someone asked me if I feel I am comparable to Turing. Well, according to
 [my Résumé as a writer and entertainer](https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html)
 I am even comparable to such historical great people as
-[Larry Wall]https://en.wikipedia.org/wiki/Larry_Wall (who is also quite obscure),
-[Sesame Street]https://en.wikipedia.org/wiki/Sesame_Street ,
-[Buffy the Vampire Slayer]https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer ,
-[The Beatles]https://en.wikipedia.org/wiki/The_Beatles , and
+[Larry Wall](https://en.wikipedia.org/wiki/Larry_Wall) (who is also quite obscure),
+[Sesame Street](https://en.wikipedia.org/wiki/Sesame_Street) ,
+[Buffy the Vampire Slayer](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) ,
+[The Beatles](https://en.wikipedia.org/wiki/The_Beatles) , and
 other [hacker monarchs](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs).
 
 Right now I am playing the old ["fox-in-the-hens'-coop"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop) motif like
