@@ -71,6 +71,8 @@ hacker inmates.
 
 ## Taylor Swift as a hypomania-"sufferer"
 
+<img align="left" alt="Photo of Taylor Swift" src="./taylor_swift.webp" />
+
 If you're into contemporary music, you likely have heard of [Taylor
 Swift](https://en.wikipedia.org/wiki/Taylor_Swift), a very successful
 singer-songwriter who is known for her interesting narrated lyrics, positively
