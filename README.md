@@ -40,11 +40,12 @@ post-WWII :: Turing :: homosexuality <=> 2019 :: Me (= Shlomi Fish) :: Hypomania
 And I have been medicated and sedated with harmful drugs and now hospitalised
 in a psychiatric ward, where my access to the outside world is an
 interconnected Windows 7 computer full of malware, instead of the
-better managed GNU/Linux boxes I can use at home, along with all my online
+better managed [GNU/Linux desktop](https://en.wikipedia.org/wiki/Desktop_linux) boxes I can use at home, along with all my online
 accounts, which I'd rather not access here (for security reasons).
 
 A committee of several experts has made me stay in the ward for several
-two week segments, trying to rehabiltate me, while I would be happier in my room
+two week segments, trying to rehabiltate me, while I would be happier and
+receive better therapy in my room
 at home. I missed [Rosh Hashanah](https://en.wikipedia.org/wiki/Rosh_Hashanah) and
 [International Talk Like a Pirate Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day) -
 two of my favourite holidays and I am about to miss
@@ -60,7 +61,7 @@ I am even comparable to such historical great people as
 other [hacker monarchs](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs).
 
 Right now I am playing the old ["fox-in-the-hens'-coop"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop) motif like
-[Joseph](https://en.wikipedia.org/wiki/Joseph_%28Genesis%29) in prison,
+[the biblical Joseph](https://en.wikipedia.org/wiki/Joseph_%28Genesis%29) in prison,
 or Summer Glau in [Summerschool at the NSA](https://www.shlomifish.org/humour/Summerschool-at-the-NSA/) , in which case what happens when you put a
 [Great Hacker/Action Hero](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#great-hackers) in a secluded place with many
 minor hackers, and several lazy "I just work here" people who do their job
@@ -84,7 +85,7 @@ several by the time I and other [freenode](https://freenode.net)ers [joked](http
 her suing Apple Inc. for using the "Swift" trademark for [Apple
 Swift](https://en.wikipedia.org/wiki/Swift_%40programming_language%41).
 
-Now here is a revelation, based on the [lyrics](https://duckduckgo.com/?q=lyrics+taylor+swift+shake+it+off) to Swift's [hit song "Shake It Off"](https://www.youtube.com/watch?v=nfWlot6h_JM): "I stay up too late" , "got nothing on my brain"
+Now here is a revelation: based on the [lyrics](https://duckduckgo.com/?q=lyrics+taylor+swift+shake+it+off) to Swift's [hit song "Shake It Off"](https://www.youtube.com/watch?v=nfWlot6h_JM): "I stay up too late" , "got nothing on my brain"
 it seems that she is often hypomanic but instead of battling it, she enjoys
 it as she is more creative, more energetic, more insightful and more socialable
 and interesting.
@@ -96,10 +97,12 @@ homosexuality in Turing's time, but I pretty much know the medication only
 causes many harmful side-effects, and in my case increasingly deprives me of
 physical energy. My parents thought that using these drugs allowed me to
 graduate from a B.Sc. in [EE in the
-Technion](https://github.com/shlomif/my-real-person-fan-fiction#the-technion-vs-project-euler),
-but not only did they not help, but I now know that these were the 6 and a half
+Technion](https://github.com/shlomif/my-real-person-fan-fiction#the-technion-vs-project-euler).
+Hoerver, not only did they not help, but I now know that these were the 6 and a
+half
 most soul destroying, unproductive, useless, and uninspiring years of my life.
-And that was because the only reason I continued to learn there was
+
+That was because the only reason I continued to learn there was
 because I wanted to get the diploma so I'll get more lucrative, higher paying,
 jobs. If I studied in the Technion or elsewhere, because it was fun, and to
 expand my horizons, or become a more effective writer / software developer /
@@ -117,7 +120,7 @@ my wisdom and knowledge anyway, and wish people to learn from my mistakes and
 my successes.
 
 Most of my screenplays, stories, bits, factoids, [the few videos I have on
-YouTube](https://www.youtube.com/user/ShlomiFish) (they are very lame compared
+YouTube](https://www.youtube.com/user/ShlomiFish) (which are very lame compared
 to the videos of Taylor Swift, but they are a start),
 [my tweets](https://twitter.com/shlomif) etc. were inspired by thoughts I had
 during hypomanias, and I quite enjoy it.
@@ -133,7 +136,7 @@ Taylor Swift should not be worried from being medicated for being Bipolar.
 She may do "strange" things such as:
 
 * Paying for anything she orders from a meal down to a soft drink, a glass of juice, or even some water, with a 50 USD bill telling the vendor/waiter to keep the change or donate it to charity (or give to her only to witness her putting
-it on one table).
+it on one of the tables for whoever wants to take it).
 * Walk alone in the neighbourhood thinking.
 * Staying up at night chatting in social media chat rooms (e.g. [Freenode](https://freenode.net), [Discord](https://discordapp.com), [Telegram](https://telegram.org), and [many others](https://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/)), while ordering food or drinks from time to time.
 * Engage in conversations with complete strangers, to whom she will even gladly [give money](https://twitter.com/shlomif/status/1175578541292957696).
@@ -194,10 +197,9 @@ Now, while I have suffered from many harmful antipsychotics - [it may still be
 fixed](https://twitter.com/shc_mo/status/1180165973556506626) but what if
 instead of these harmful legal drugs, I would have been treated with good
 therapy, possibly
-[CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) or more
+[Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) or more
 preferably
-[Saladin-style](http://shlomifishswiki.branchable.com/Saladin_Style/) benevolent
-therapy.
+[Saladin-style benevolent therapy](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#benevolent-psychological-warfare).
 
 How many potential Taylor Swifts were forced to be a "Shlomi Fish" like me, who
 despite all was very productive and insightful, or were just hospitalised and
@@ -228,5 +230,5 @@ wrong, but they can. In other news, everyone [knows the Earth is flat](https://e
 and that the [sun and all the planets revolve around the Earth](https://en.wikipedia.org/wiki/Galileo_Galilei),
 and that [all species of animals were created about 6,000 years ago](https://en.wikipedia.org/wiki/Charles_Darwin),
 and that [unmarried couples living together and having premarital sex](https://en.wikipedia.org/wiki/Bertrand_Russell)
-is unethical and immoral. And, naturally, homosexual individuals are a threat
+is unethical and immoral. And, naturally, homosexual individuals are a menace
 to society and must be medicated and sedated.
