@@ -135,15 +135,15 @@ of code or churn a large amount of text. These are also ok.
 Taylor Swift should not be worried from being medicated for being Bipolar.
 She may do "strange" things such as:
 
-* Paying for anything she orders from a meal down to a soft drink, a glass of juice, or even some water, with a 50 USD bill telling the vendor/waiter to keep the change or donate it to charity (or give to her only to witness her putting
-it on one of the tables for whoever wants to take it).
+* Paying for anything she orders from a meal down to a soft drink, a glass of juice, or even some water, with a 50 USD bill telling the vendor/waiter to keep the change or donate it to charity (or give it to her, only to witness her leaving
+it on one of the tables for whoever wishes to take it).
 * Walk alone in the neighbourhood thinking.
 * Staying up at night chatting in social media chat rooms (e.g. [Freenode](https://freenode.net), [Discord](https://discordapp.com), [Telegram](https://telegram.org), and [many others](https://shlomifishswiki.branchable.com/How_Alternatives_Proliferate/)), while ordering food or drinks from time to time.
 * Engage in conversations with complete strangers, to whom she will even gladly [give money](https://twitter.com/shlomif/status/1175578541292957696).
 * Eat various foods based upon a whim. I once ordered a warm pasta meal in the morning, and the restaurant complied.
 
 Policemen are unlikely to detain her,
-and she can use social engineering and [Saladin style](http://shlomifishswiki.branchable.com/Saladin_Style/) benevolent psychological warfare so they just give
+and she can use social engineering and [benevolent psychological warfare](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#benevolent-psychological-warfare) so they just give
 her a ride back home, or leave her alone while thinking that her
 behaviour just "comes with the territory".
 
@@ -206,8 +206,8 @@ despite all was very productive and insightful, or were just hospitalised and
 sedated and fought against by mediocre minds, who think conformism is mental
 health, while [it is the
 opposite](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/).
-Furthermore, conformism leads to [Superior
-orders](https://en.wikipedia.org/wiki/Superior_orders), including the "I just
+Furthermore, conformism leads to Nazi-style ["Superior
+orders" / The "Nuremberg defense"](https://en.wikipedia.org/wiki/Superior_orders), including the "I just
 work here" [small minded
 attitude](https://www.joelonsoftware.com/2004/12/06/news-45/) which leads to
 sadism and vandalism and loss of lives and property that took a lot of effort
@@ -217,11 +217,11 @@ So I say: "do what you want, not what you feel you must. The choice is in
 your hands. Whatever you do, I'll accept that." These words go back at least to
 [Moses](https://en.wikipedia.org/wiki/Moses), were [exemplified by
 Saladin](http://shlomifishswiki.branchable.com/Saladin_Style/) and were
-extended and conveyed by greater and greater "memes" including the [Taylor
-Swift "Shake it Off" song](https://www.youtube.com/watch?v=T7HiMv5jygk) and the
-somewhat more established ["Highway to Hell" by
-AC/DC](https://www.youtube.com/watch?v=d2RZXeQc5HU) (these are both links to my
-favourite covers of them).
+extended and conveyed by greater and greater "memes" including [Taylor
+Swift's "Shake it Off" song](https://www.youtube.com/watch?v=T7HiMv5jygk) and the
+somewhat more established ["Highway to Hell" song by
+AC/DC](https://www.youtube.com/watch?v=d2RZXeQc5HU) (these are both links to two
+of my favourite covers of them).
 
 ## A Million Psychiatrists can be wrong
 
@@ -232,3 +232,9 @@ and that [all species of animals were created about 6,000 years ago](https://en.
 and that [unmarried couples living together and having premarital sex](https://en.wikipedia.org/wiki/Bertrand_Russell)
 is unethical and immoral. And, naturally, homosexual individuals are a menace
 to society and must be medicated and sedated.
+
+## Please don't take anger the wrong way
+
+My psychotherapist told me that anger and rage were typical of being hypomanic.
+I feel that my rage, although criticised by other people, does serve a
+useful and natural purpose.
