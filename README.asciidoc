@@ -42,8 +42,7 @@ post-WWII :: Turing :: homosexuality <=> 2019 :: Me (= Shlomi Fish) :: Hypomania
 And I have been medicated and sedated with harmful drugs and now
 hospitalised in a psychiatric ward, where my access to the outside world
 is an interconnected Windows 7 computer full of malware, instead of the
-better managed https://en.wikipedia.org/wiki/Desktop_linux[GNU/Linux
-desktop] boxes I can use at home, along with all my online accounts,
+better managed https://en.wikipedia.org/wiki/Desktop_linux[GNU/Linux desktop] boxes I can use at home, along with all my online accounts,
 which I’d rather not access here (for security reasons).
 
 A committee of several experts has made me stay in the ward for several
@@ -58,32 +57,26 @@ http://2019.iconfestival.org.il/[ICon Festival] which I find very
 inspiring.
 
 Someone asked me if I feel I am comparable to Turing. Well, according to
-https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html[my
-Résumé as a writer and entertainer] I am even comparable to such
+https://www.shlomifish.org/me/resumes/Shlomi-Fish-Resume-as-Writer-Entertainer.html[my Résumé as a writer and entertainer] I am even comparable to such
 historical great people as
 https://en.wikipedia.org/wiki/Larry_Wall[Larry Wall] (who is also quite
 obscure), https://en.wikipedia.org/wiki/Sesame_Street[Sesame Street] ,
-https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer[Buffy the Vampire
-Slayer] , https://en.wikipedia.org/wiki/The_Beatles[The Beatles] , and
+https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer[Buffy the Vampire Slayer] , https://en.wikipedia.org/wiki/The_Beatles[The Beatles] , and
 other
-https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs[hacker
-monarchs].
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs[hacker monarchs].
 
 Right now I am playing the old
-https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop[``fox-in-the-hens’-coop'']
-motif like https://en.wikipedia.org/wiki/Joseph_%28Genesis%29[the
-biblical Joseph] in prison, or Summer Glau in
-https://www.shlomifish.org/humour/Summerschool-at-the-NSA/[Summerschool
-at the NSA] , in which case what happens when you put a
-https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#great-hackers[Great
-Hacker/Action Hero] in a secluded place with many minor hackers, and
-several lazy ``I just work here'' people who do their job in the worst
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#fox-in-the-hens-coop["fox-in-the-hens’-coop"]
+motif like https://en.wikipedia.org/wiki/Joseph_%28Genesis%29[the biblical Joseph] in prison, or Summer Glau in
+https://www.shlomifish.org/humour/Summerschool-at-the-NSA/[Summerschool at the NSA] , in which case what happens when you put a
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#great-hackers[Great Hacker/Action Hero] in a secluded place with many minor hackers, and
+several lazy "I just work here" people who do their job in the worst
 possible manner, is not a crashed great hacker, but instead many happy
 hackers workers who are happy to provide their customers with royalty
 service, even if they are not paid a lot to do it, and many hacker or
 great hacker inmates.
 
-=== Taylor Swift as a hypomania-``sufferer''
+=== Taylor Swift as a hypomania-"sufferer"
 
 image::./taylor_swift.webp[Photo of Taylor Swift]
 
@@ -94,18 +87,16 @@ lyrics, positively extravagant and mind-blowing videos, constant
 philantropism (which does not prevent her from becoming richer), and a
 rich YouTube culture of youtubers who cover her songs, parody them,
 remix them, and comment on them. I realised that she became a
-https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs[Hacker
-Monarch] - one of several by the time I and other
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs[Hacker Monarch] - one of several by the time I and other
 https://freenode.net[freenode]ers
 https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-gnu--think-big[joked]
-about her suing Apple Inc. for using the ``Swift'' trademark for
-https://en.wikipedia.org/wiki/Swift_%40programming_language%41[Apple
-Swift].
+about her suing Apple Inc. for using the "Swift" trademark for
+https://en.wikipedia.org/wiki/Swift_%40programming_language%41[Apple Swift].
 
 Now here is a revelation: based on the
 https://duckduckgo.com/?q=lyrics+taylor+swift+shake+it+off[lyrics] to
-Swift’s https://www.youtube.com/watch?v=nfWlot6h_JM[hit song ``Shake It
-Off'']: ``I stay up too late'' , ``got nothing on my brain'' it seems
+Swift’s https://www.youtube.com/watch?v=nfWlot6h_JM[hit song "Shake It
+Off"]: "I stay up too late" , "got nothing on my brain" it seems
 that she is often hypomanic but instead of battling it, she enjoys it as
 she is more creative, more energetic, more insightful and more
 socialable and interesting.
@@ -136,7 +127,7 @@ following the text of the essays, stories and screenplays, and links.
 While it took me a long time to hone my skills to my level, I wish
 future people who wish to try to emulate me, to have an easier time. I
 may be a badass writer and entertainer, but given that I know I should
-https://www.shlomifish.org/humour/bits/facts/NSA/[``Publish or Perish'']
+https://www.shlomifish.org/humour/bits/facts/NSA/["Publish or Perish"]
 and love to share my wisdom and knowledge anyway, and wish people to
 learn from my mistakes and my successes.
 
@@ -149,12 +140,12 @@ inspired by thoughts I had during hypomanias, and I quite enjoy it.
 Sometimes I get into periods of mild
 https://en.wikipedia.org/wiki/Major_depressive_disorder[depressions]
 during which I like to code a lot and to chat less passionately and
-philosophically on IRC. Or I get into ``deep work mode'' when I write or
+philosophically on IRC. Or I get into "deep work mode" when I write or
 https://en.wikipedia.org/wiki/Code_refactoring[refactor] / transition a
 lot of code or churn a large amount of text. These are also ok.
 
 Taylor Swift should not be worried from being medicated for being
-Bipolar. She may do ``strange'' things such as:
+Bipolar. She may do "strange" things such as:
 
 * Paying for anything she orders from a meal down to a soft drink, a
 glass of juice, or even some water, with a 50 USD bill telling the
@@ -177,8 +168,8 @@ Policemen are unlikely to detain her, and she can use social engineering
 and
 https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#benevolent-psychological-warfare[benevolent
 psychological warfare] so they just give her a ride back home, or leave
-her alone while thinking that her behaviour just ``comes with the
-territory''.
+her alone while thinking that her behaviour just "comes with the
+territory".
 
 Perhaps I have mischaracterised Ms. Swift here, but the point is that
 these behaviours, although eccentric, unconventional, and non-conformist
@@ -229,8 +220,8 @@ funny, or alternatively thought they were
 http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[blasphemous
 (which indicates they were true)].
 
-But the people who wanted me to be ``mentally healthy'' told me these
-things were irrational, wrong, ``schema-driven'' and that they were
+But the people who wanted me to be "mentally healthy" told me these
+things were irrational, wrong, "schema-driven" and that they were
 nonsense and that I should not give them weight.
 
 They were wrong! They were insightful, fresh, and endured their time.
@@ -244,40 +235,34 @@ behavioral therapy] or more preferably
 https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#benevolent-psychological-warfare[Saladin-style
 benevolent therapy].
 
-How many potential Taylor Swifts were forced to be a ``Shlomi Fish''
+How many potential Taylor Swifts were forced to be a "Shlomi Fish"
 like me, who despite all was very productive and insightful, or were
 just hospitalised and sedated and fought against by mediocre minds, who
 think conformism is mental health, while
 https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[it
 is the opposite]. Furthermore, conformism leads to Nazi-style
-https://en.wikipedia.org/wiki/Superior_orders[``Superior orders'' / The
-``Nuremberg defense''], including the ``I just work here''
+https://en.wikipedia.org/wiki/Superior_orders["Superior orders" / The
+"Nuremberg defense"], including the "I just work here"
 https://www.joelonsoftware.com/2004/12/06/news-45/[small minded
 attitude] which leads to sadism and vandalism and loss of lives and
 property that took a lot of effort to construct by hard working,
 enthusiastic individuals.
 
-So I say: ``do what you want, not what you feel you must. The choice is
-in your hands. Whatever you do, I’ll accept that.'' These words go back
+So I say: "do what you want, not what you feel you must. The choice is
+in your hands. Whatever you do, I’ll accept that." These words go back
 at least to https://en.wikipedia.org/wiki/Moses[Moses], were
-http://shlomifishswiki.branchable.com/Saladin_Style/[exemplified by
-Saladin] and were extended and conveyed by greater and greater ``memes''
-including https://www.youtube.com/watch?v=T7HiMv5jygk[Taylor Swift’s
-``Shake it Off'' song] and the somewhat more established
-https://www.youtube.com/watch?v=d2RZXeQc5HU[``Highway to Hell'' song by
-AC/DC] (these are both links to two of my favourite covers of them).
+http://shlomifishswiki.branchable.com/Saladin_Style/[exemplified by Saladin] and were extended and conveyed by greater and greater "memes"
+including https://www.youtube.com/watch?v=T7HiMv5jygk[Taylor Swift’s "Shake it Off" song] and the somewhat more established
+https://www.youtube.com/watch?v=d2RZXeQc5HU["Highway to Hell" song by AC/DC] (these are both links to two of my favourite covers of them).
 
 === A Million Psychiatrists can be wrong
 
 Some people think that a million psychiatrists (and the mass media)
 cannot be wrong, but they can. In other news, everyone
 https://en.wikipedia.org/wiki/Flat_Earth[knows the Earth is flat], and
-that the https://en.wikipedia.org/wiki/Galileo_Galilei[sun and all the
-planets revolve around the Earth], and that
-https://en.wikipedia.org/wiki/Charles_Darwin[all species of animals were
-created about 6,000 years ago], and that
-https://en.wikipedia.org/wiki/Bertrand_Russell[unmarried couples living
-together and having premarital sex] is unethical and immoral. And,
+that the https://en.wikipedia.org/wiki/Galileo_Galilei[sun and all the planets revolve around the Earth], and that
+https://en.wikipedia.org/wiki/Charles_Darwin[all species of animals were created about 6,000 years ago], and that
+https://en.wikipedia.org/wiki/Bertrand_Russell[unmarried couples living together and having premarital sex] is unethical and immoral. And,
 naturally, homosexual individuals are a menace to society and must be
 medicated and sedated.
 
