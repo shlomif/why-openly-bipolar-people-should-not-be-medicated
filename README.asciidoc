@@ -1,6 +1,12 @@
-== Why Openly Bipolar People Should Not Be Medicated
+Why Openly Bipolar People Should Not Be Medicated
+=================================================
+Shlomi Fish <shlomif@cpan.org>
+:Date: 2019-11-23
+:Revision: $Id$
 
-=== Parallel with Alan Turing
+[id="alan_turing"]
+Parallel with Alan Turing
+-------------------------
 
 image::./alan_turing.webp[Photo of Alan Turing]
 
@@ -24,7 +30,9 @@ life, without being sedated and medicated.
 
 But it’s not all roses.
 
-=== Hypomania and MDD as the new Homosexuality:
+[id="hypomania_as_new_homosexuality"]
+Hypomania and MDD as the new Homosexuality:
+-------------------------------------------
 
 I have had https://en.wikipedia.org/wiki/Major_depressive_disorder[Major
 depressive disorders] and
@@ -76,7 +84,9 @@ hackers workers who are happy to provide their customers with royalty
 service, even if they are not paid a lot to do it, and many hacker or
 great hacker inmates.
 
-=== Taylor Swift as a hypomania-"sufferer"
+[id="taylor_swift"]
+Taylor Swift as a hypomania-"sufferer"
+--------------------------------------
 
 image::./taylor_swift.webp[Photo of Taylor Swift]
 
@@ -101,15 +111,16 @@ that she is often hypomanic but instead of battling it, she enjoys it as
 she is more creative, more energetic, more insightful and more
 socialable and interesting.
 
-=== Hypomania is OK:
+[id="hypomania_is_ok"]
+Hypomania is OK
+---------------
 
 Hypomania has been believed to be treatable with medication, just like
 homosexuality in Turing’s time, but I pretty much know the medication
 only causes many harmful side-effects, and in my case increasingly
 deprives me of physical energy. My parents thought that using these
 drugs allowed me to graduate from a B.Sc. in
-https://github.com/shlomif/my-real-person-fan-fiction#the-technion-vs-project-euler[EE
-in the Technion]. Hoerver, not only did they not help, but I now know
+https://github.com/shlomif/my-real-person-fan-fiction#the-technion-vs-project-euler[EE in the Technion]. Hoerver, not only did they not help, but I now know
 that these were the 6 and a half most soul destroying, unproductive,
 useless, and uninspiring years of my life.
 
@@ -176,27 +187,24 @@ these behaviours, although eccentric, unconventional, and non-conformist
 are perfectly logical, and I will do the same if I were a wealthy
 bipolar person.
 
-=== The Sad Story of My Treatment:
+[id="my_treatment"]
+The Sad Story of My Treatment
+-----------------------------
 
 However, I am not so lucky.
 
 In the break after my second Technion semester, I started writing
-https://www.shlomifish.org/humour/TOneW-the-Fountainhead/[The One With
-The Fountainhead] - which is a parodical crossover of
-https://en.wikipedia.org/wiki/The_Fountainhead[Ayn Rand’s The
-Fountainhead] and https://en.wikipedia.org/wiki/Friends[the Friends T.V.
-show], and which is one of the funniest, most politically incorrect, and
+https://www.shlomifish.org/humour/TOneW-the-Fountainhead/[The One With The Fountainhead] - which is a parodical crossover of
+https://en.wikipedia.org/wiki/The_Fountainhead[Ayn Rand’s The Fountainhead] and https://en.wikipedia.org/wiki/Friends[the Friends T.V.  show], and which is one of the funniest, most politically incorrect, and
 yet some people’s favourite of my screenplays.
 
 Moreover, I corresponded with my friend https://zak.co.il/[Omer Zak] and
 we came up with the opening meme to the
-https://www.shlomifish.org/philosophy/SummerNSA/[Summerschool at the
-NSA] effort.
+https://www.shlomifish.org/philosophy/SummerNSA/[Summerschool at the NSA] effort.
 
 All of this made me maniacal and out of control and I came up with an
 imaginary reality where
-https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep_Space_Nine[Star
-Trek DS9],
+https://memory-alpha.fandom.com/wiki/Star_Trek:_Deep_Space_Nine[Star Trek DS9],
 https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer[Buffy],
 https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_%281996_TV_series%29[Sabrina],
 https://en.wikipedia.org/wiki/Clarissa_Explains_It_All[CEIA]
@@ -217,8 +225,7 @@ in stuff I placed on https://www.shlomifish.org/[my homesite] - and on
 other social media sites, and which many similar minded hackers (both
 male and female) enjoyed, complimented me for it, thought they were
 funny, or alternatively thought they were
-http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[blasphemous
-(which indicates they were true)].
+http://shlomifishswiki.branchable.com/Encourage_criticism_and_try_to_get_offended/[blasphemous (which indicates they were true)].
 
 But the people who wanted me to be "mentally healthy" told me these
 things were irrational, wrong, "schema-driven" and that they were
@@ -227,24 +234,18 @@ nonsense and that I should not give them weight.
 They were wrong! They were insightful, fresh, and endured their time.
 
 Now, while I have suffered from many harmful antipsychotics -
-https://twitter.com/shc_mo/status/1180165973556506626[it may still be
-fixed] but what if instead of these harmful legal drugs, I would have
+https://twitter.com/shc_mo/status/1180165973556506626[it may still be fixed] but what if instead of these harmful legal drugs, I would have
 been treated with good therapy, possibly
-https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy[Cognitive
-behavioral therapy] or more preferably
-https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#benevolent-psychological-warfare[Saladin-style
-benevolent therapy].
+https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy[Cognitive behavioral therapy] or more preferably
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#benevolent-psychological-warfare[Saladin-style benevolent therapy].
 
 How many potential Taylor Swifts were forced to be a "Shlomi Fish"
 like me, who despite all was very productive and insightful, or were
 just hospitalised and sedated and fought against by mediocre minds, who
 think conformism is mental health, while
-https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[it
-is the opposite]. Furthermore, conformism leads to Nazi-style
-https://en.wikipedia.org/wiki/Superior_orders["Superior orders" / The
-"Nuremberg defense"], including the "I just work here"
-https://www.joelonsoftware.com/2004/12/06/news-45/[small minded
-attitude] which leads to sadism and vandalism and loss of lives and
+https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/[it is the opposite]. Furthermore, conformism leads to Nazi-style
+https://en.wikipedia.org/wiki/Superior_orders["Superior orders" / The "Nuremberg defense"], including the "I just work here"
+https://www.joelonsoftware.com/2004/12/06/news-45/[small minded attitude] which leads to sadism and vandalism and loss of lives and
 property that took a lot of effort to construct by hard working,
 enthusiastic individuals.
 
